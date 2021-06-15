@@ -1,5 +1,5 @@
 const AppReducer = (state, action) => {
-  switch (action.payload) {
+  switch (action.type) {
     case "DELETE_TRANSACTION":
       return {
         ...state,
