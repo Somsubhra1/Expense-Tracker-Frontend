@@ -22,13 +22,13 @@ $ npm start
 $ npm run build
 ```
 
-<!-- ## Setup
+## Setup
 
 Create .env file in the root directory and add the following configuations:
 
 ```
-REACT_APP_API_BASE_URL - Set API base URL
-``` -->
+REACT_APP_API_BASE_URL - Set Backend API base URL
+```
 
 ## License
 
